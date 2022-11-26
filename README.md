@@ -10,6 +10,9 @@ preset buttons.
 
 ## Setup
 
+(NOTE: These instructions are for installation on a Raspberry Pi 3 running the Buster OS.  
+Instructions for installing, particularly libraries, may be different for the Bullseye OS.)
+
 * Install the I2C libraries and tools as follows.
 
 sudo apt-get install python-smbus python3-smbus python-dev python3-dev i2c-tools
